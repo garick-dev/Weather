@@ -1,0 +1,14 @@
+E:\4-й курс\РИС\Weather\Weather\bin\Debug\Weather.exe.config
+E:\4-й курс\РИС\Weather\Weather\bin\Debug\Weather.exe
+E:\4-й курс\РИС\Weather\Weather\bin\Debug\Weather.pdb
+E:\4-й курс\РИС\Weather\Weather\obj\Debug\Weather.csprojAssemblyReference.cache
+E:\4-й курс\РИС\Weather\Weather\obj\Debug\Weather.Form1.resources
+E:\4-й курс\РИС\Weather\Weather\obj\Debug\Weather.Properties.Resources.resources
+E:\4-й курс\РИС\Weather\Weather\obj\Debug\Weather.csproj.GenerateResource.cache
+E:\4-й курс\РИС\Weather\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+E:\4-й курс\РИС\Weather\Weather\obj\Debug\Weather.exe
+E:\4-й курс\РИС\Weather\Weather\obj\Debug\Weather.pdb
+E:\4-й курс\РИС\Weather\Weather\bin\Debug\Newtonsoft.Json.dll
+E:\4-й курс\РИС\Weather\Weather\bin\Debug\Newtonsoft.Json.xml
+E:\4-й курс\РИС\Weather\Weather\obj\Debug\Weather.csproj.CopyComplete
+E:\4-й курс\РИС\Weather\Weather\obj\Debug\Weather.Form2.resources
